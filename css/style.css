@@ -1,0 +1,95 @@
+
+
+#name{
+    font-family: 'Oswald';
+    font-size: 96px;
+    font-weight: bold; 
+    margin-left: 122px;
+    margin-top: 29px; 
+    letter-spacing: 10px;
+}
+
+#title{
+    font-family: 'Oswald';
+    font-size: 36px;
+    font-weight: bold; 
+    margin-left: 250px;
+    margin-top: 102px; 
+    letter-spacing: 10px;
+
+}
+
+#descriptions{
+    font-family: 'Oswald';
+    font-size: 24px; 
+    letter-spacing: 10px;
+    margin-left: 250px; 
+    margin-top: 155px; 
+}
+
+
+
+img{
+    margin-left: 122px; 
+    border-radius: 750px; 
+}
+
+p{
+    margin-left: 122px; 
+    font-family: 'Oswald';
+    font-size: 36px; 
+    height: 158px; 
+    width: 469px; 
+    letter-spacing: 5px; 
+
+}
+
+.linkedin{
+    font-family: 'Oswald';
+    font-size: 36px; 
+    margin-left: 122px; 
+    letter-spacing: 5px;
+    color: #008080; 
+    font-weight: bold; 
+}
+
+.resume{
+    font-family: 'Oswald';
+    font-size: 36px; 
+    margin-left: 122px; 
+    letter-spacing: 5px; 
+    color: #008080; 
+    font-weight: bold; 
+}
+
+
+#row{
+    flex-direction: row;
+}
+
+.flex{
+    display: flex;
+}
+
+.links{
+
+    padding-bottom: 50px;
+}
+
+#p4{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    position: relative; 
+}
+
+#p5{
+    padding-top: 25px; 
+    padding-bottom: 25px;
+}
+
+#p6{
+    padding-top: 25px; 
+    padding-bottom: 25px;
+}
+
+
